@@ -85,7 +85,7 @@ Only lead tin yellow type I has been detected in miniatures so far, both in mixt
     <img alt="NPG 1572" src="../assets/terminology/NPG_1572_424_565.jpg">
 </div>
 
-*106991 (left), NPG 6947 (centre), NPG 1572*
+*106991 (left), NPG 6947 (centre), NPG 1572 (right)*
 
 ## Umber
 
